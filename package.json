@@ -1,0 +1,25 @@
+{
+  "name": "threejstest",
+  "version": "0.1.0",
+  "description": "testing and playing with three.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chousmith/threejstest.git"
+  },
+  "keywords": [
+    "threejs"
+  ],
+  "author": "chousmith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chousmith/threejstest/issues"
+  },
+  "homepage": "https://github.com/chousmith/threejstest#readme",
+  "dependencies": {
+    "three": "^0.118.3"
+  }
+}
